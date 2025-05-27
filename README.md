@@ -92,7 +92,7 @@ streamlit run frontend/main.py
 
 **Ashish Raghav**  
 📧 [ashishraghavv@gmail.com](mailto:ashish123raghav@gmail.com)  
-🌐 [LinkedIn]([https://www.linkedin.com/in/ashishraghavv/](https://www.linkedin.com/in/ashish-raghav-830b09197/))
+🌐 [LinkedIn] (https://www.linkedin.com/in/ashishraghavv/](https://www.linkedin.com/in/ashish-raghav-830b09197/)
 
 ---
 
